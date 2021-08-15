@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ixchel García</h1>
-<h3 align="center">A passionate frontend developer from Venezuela</h3>
+<h3 align="center">A passionate backend developer and junior data scientist from Venezuela</h3>
 
 - 🌱 I’m currently learning **Product Data Science**
 
