@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ixcheldelsun" target="blank"><img src="https://img.shields.io/twitter/follow/ixcheldelsun?logo=twitter&style=for-the-badge" alt="ixcheldelsun" /></a> </p>
 
-- 🌱 I’m currently learning **more about ML, distributed systems and Java (also some Portuguese)**
+- 🌱 I’m currently learning **more about ML, data engineering, distributed systems and Java (also some Portuguese)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ixcheldelsun](https://github.com/ixcheldelsun)
 
