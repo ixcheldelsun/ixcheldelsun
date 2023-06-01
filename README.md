@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ixchel</h1>
-<h3 align="center">A backend developer, data scientist and aspiring ML engineer from Venezuela</h3>
+<h3 align="center">A backend developer, data scientist and aspiring Data Engineer from Venezuela</h3>
 
 <p align="left"> <a href="https://twitter.com/ixcheldelsun" target="blank"><img src="https://img.shields.io/twitter/follow/ixcheldelsun?logo=twitter&style=for-the-badge" alt="ixcheldelsun" /></a> </p>
 
